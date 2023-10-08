@@ -1,0 +1,14 @@
+{
+  "name": "shell-script-demo",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "zx": "^7.2.3"
+  }
+}

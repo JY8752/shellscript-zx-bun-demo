@@ -1,0 +1,3 @@
+theme1 これはtheme1のガチャです
+theme2 これはtheme2のガチャです
+theme3 これはtheme3のガチャです
