@@ -36,6 +36,8 @@ id,name,rarity,weight
 ./main.sh
 ```
 
+<img alt="Demo main.sh" src="./examples/demo.gif" width="600" />
+
 ## zx(Bun)
 
 ### setup
@@ -61,3 +63,5 @@ bun add zx inquirer papaparse
 ```
 ./index.ts
 ```
+
+<img alt="Demo index.ts" src="./examples/demo2.gif" width="600" />
